@@ -13,4 +13,4 @@
 <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Amante da tecnologia e aluno de desenvolvimento de software - full stack, ministrado pela Cubos Academy. 
+Amante da tecnologia e aluno do curso de Desenvolvimento de Software - Full Stack, ministrado pela Cubos Academy. 
